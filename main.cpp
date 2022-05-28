@@ -2,9 +2,10 @@
 #include "problems/leetcode/167_twoSum_II.h"
 #include "problems/leetcode/15_3Sum.h"
 #include "problems/leetcode/242_isAnagram.h"
+#include "problems/leetcode/54_spiralOrder.h"
 
 Solution *getSolution() {
-    return new Problem242_isAnagram();
+    return new Problem54_spiralOrder();
 }
 
 int main() {

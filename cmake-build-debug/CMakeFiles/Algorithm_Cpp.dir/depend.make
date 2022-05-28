@@ -5,7 +5,9 @@ CMakeFiles/Algorithm_Cpp.dir/main.cpp.o: \
  ../main.cpp \
  ../problems/leetcode/15_3Sum.h \
  ../problems/leetcode/167_twoSum_II.h \
+ ../problems/leetcode/242_isAnagram.h \
  ../problems/leetcode/3_lengthOfLongestSubstring.h \
+ ../problems/leetcode/54_spiralOrder.h \
  ../problems/leetcode/leetcode.h
 CMakeFiles/Algorithm_Cpp.dir/problems/leetcode/threeSum.cpp.o: \
  ../problems/leetcode/leetcode.h \

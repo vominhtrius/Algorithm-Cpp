@@ -13,7 +13,7 @@ public:
 
 private:
     void readInput(Input& input) override {
-        readArray(input.firstVecInt);
+        readVec(input.firstVecInt);
     }
 
     void doSolve(Input input) override {

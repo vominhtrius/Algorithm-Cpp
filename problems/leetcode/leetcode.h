@@ -49,6 +49,18 @@ struct Input {
     vector<int> fourthVec;
     vector<int> fifthVec;
 
+    vector<vector<int>> firstVec2;
+    vector<vector<int>> secondVec2;
+    vector<vector<int>> thirdVec2;
+    vector<vector<int>> fourthVec2;
+    vector<vector<int>> fifthVec2;
+
+    vector<vector<int>> firstVec2Int;
+    vector<vector<int>> secondVec2Int;
+    vector<vector<int>> thirdVec2Int;
+    vector<vector<int>> fourthVec2Int;
+    vector<vector<int>> fifthVec2Int;
+
     vector<int> firstVecInt;
     vector<int> secondVecInt;
     vector<int> thirdVecInt;
@@ -114,13 +126,26 @@ protected:
     }
 
     template <typename T>
-    void readArray(vector<T>& a) {
+    void readVec(vector<T>& a) {
         int n;
         cin >> n;
         T t;
         for (int i = 0; i < n; i++) {
             cin >> t;
             a.push_back(t);
+        }
+    }
+
+    template <typename T>
+    void readVec2(vector<vector<T>>& a) {
+        int n, m;
+        cin >> n >> m;
+        a.resize(n);
+        for (int i = 0; i < n; i++) {
+            a[i].resize(m);
+            for (int j = 0; j < m; j++) {
+                cin >> a[i][j];
+            }
         }
     }
 
