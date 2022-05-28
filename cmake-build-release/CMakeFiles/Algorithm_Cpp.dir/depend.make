@@ -9,6 +9,7 @@ CMakeFiles/Algorithm_Cpp.dir/main.cpp.o: \
  ../problems/leetcode/242_isAnagram.h \
  ../problems/leetcode/283_moveZeroes.h \
  ../problems/leetcode/3_lengthOfLongestSubstring.h \
+ ../problems/leetcode/443_stringCompression.h \
  ../problems/leetcode/54_spiralOrder.h \
  ../problems/leetcode/88_mergeSortedArray.h \
  ../problems/leetcode/leetcode.h

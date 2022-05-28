@@ -1,0 +1,17 @@
+4
+abcc
+
+1
+a
+
+7
+a a b b c c c
+
+8
+a b b b b b b b
+
+3
+abc
+
+7
+a a b b c c c

@@ -61,6 +61,12 @@ struct Input {
     vector<vector<int>> fourthVec2Int;
     vector<vector<int>> fifthVec2Int;
 
+    vector<char> firstVecChar;
+    vector<char> secondVecChar;
+    vector<char> thirdVecChar;
+    vector<char> fourthVecChar;
+    vector<char> fifthVecChar;
+
     vector<int> firstVecInt;
     vector<int> secondVecInt;
     vector<int> thirdVecInt;

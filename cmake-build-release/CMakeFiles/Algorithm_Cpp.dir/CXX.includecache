@@ -23,6 +23,8 @@ problems/leetcode/118_pascalTriangle.h
 /Users/trivm2/Yamoshius/Algorithm-Cpp/problems/leetcode/118_pascalTriangle.h
 problems/leetcode/283_moveZeroes.h
 /Users/trivm2/Yamoshius/Algorithm-Cpp/problems/leetcode/283_moveZeroes.h
+problems/leetcode/443_stringCompression.h
+/Users/trivm2/Yamoshius/Algorithm-Cpp/problems/leetcode/443_stringCompression.h
 
 /Users/trivm2/Yamoshius/Algorithm-Cpp/problems/leetcode/118_pascalTriangle.h
 leetcode.h
@@ -45,6 +47,10 @@ leetcode.h
 /Users/trivm2/Yamoshius/Algorithm-Cpp/problems/leetcode/leetcode.h
 
 /Users/trivm2/Yamoshius/Algorithm-Cpp/problems/leetcode/3_lengthOfLongestSubstring.h
+leetcode.h
+/Users/trivm2/Yamoshius/Algorithm-Cpp/problems/leetcode/leetcode.h
+
+/Users/trivm2/Yamoshius/Algorithm-Cpp/problems/leetcode/443_stringCompression.h
 leetcode.h
 /Users/trivm2/Yamoshius/Algorithm-Cpp/problems/leetcode/leetcode.h
 

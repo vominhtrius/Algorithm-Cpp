@@ -6,9 +6,11 @@
 #include "problems/leetcode/88_mergeSortedArray.h"
 #include "problems/leetcode/118_pascalTriangle.h"
 #include "problems/leetcode/283_moveZeroes.h"
+#include "problems/leetcode/443_stringCompression.h";
+//#include "problems/leetcode/";
 
 Solution *getSolution() {
-    return new Problem283_moveZeroes();
+    return new Problem442_stringCompression();
 }
 
 int main() {
