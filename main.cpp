@@ -3,9 +3,10 @@
 #include "problems/leetcode/15_3Sum.h"
 #include "problems/leetcode/242_isAnagram.h"
 #include "problems/leetcode/54_spiralOrder.h"
+#include "problems/leetcode/88_mergeSortedArray.h"
 
 Solution *getSolution() {
-    return new Problem54_spiralOrder();
+    return new Problem88_mergeSortedArray();
 }
 
 int main() {
