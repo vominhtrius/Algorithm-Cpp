@@ -22,66 +22,40 @@ private:
 
     vector<int> spiralOrder(vector<vector<int>>& matrix) {
 
-        int n = matrix.size();
-        int m = matrix[0].size();
+        int rows = matrix.size();
+        int columns = matrix[0].size();
         vector<int> ans;
-        ans.reserve(n * m);
 
-        int rowLevel = 0;
-        int columnLevel = 0;
+        int up = 0;
+        int left = 0;
+        int right = columns - 1;
+        int down = rows - 1;
 
-        int row = 0;
-        int column = 0;
-        int direction = 0;
-
-        while (ans.size() < n * m) {
-            // get current row. column
-            ans.push_back(matrix[row][column]);
-            if (ans.size() == n * m) {
-                break;
+        while (ans.size() < rows * columns) {
+            for (int col = left; col <= right; col++) {
+                ans.push_back(matrix[up][col]);
             }
 
-            if (direction == 0) { // right
-                // get
-                if (column == m - columnLevel - 1) {
-                    // go down
-                    direction = 1;
-                    column = m - columnLevel - 1;
-                    row = rowLevel + 1;
-                } else {
-                    column++;
-                }
-            } else if (direction == 1) { //down
-                if (row == n - rowLevel - 1) {
-                    // go left
-                    direction = 2;
-                    row = n - rowLevel - 1;
-                    column = m - columnLevel - 2;
-                } else {
-                    row++;
-                }
-            }  else if (direction == 2) { // left
-                if (column == columnLevel) {
-                    // go up
-                    column = columnLevel;
-                    row = n - rowLevel - 2;
-                    direction = 3;
-                } else {
-                    column--;
-                }
-            } else { // up
-                if (row == rowLevel + 1) {
-                    // go right
-                    direction = 0;
-                    rowLevel++;
-                    columnLevel++;
-                    row = rowLevel;
-                    column = columnLevel;
-                } else {
-                    row--;
+            for (int row = up + 1; row <= down; row++) {
+                ans.push_back(matrix[row][right]);
+            }
+
+            if (up != down) {
+                for (int col = right - 1; col >= left; col--) {
+                    ans.push_back(matrix[down][col]);
                 }
             }
 
+            if (left != right) {
+                for (int row = down - 1; row > up; row--) {
+                    ans.push_back(matrix[row][left]);
+                }
+            }
+
+            left++;
+            right--;
+            up++;
+            down--;
         }
 
         return ans;
