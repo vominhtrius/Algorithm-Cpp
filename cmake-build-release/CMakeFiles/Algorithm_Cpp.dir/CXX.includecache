@@ -17,6 +17,16 @@ problems/leetcode/242_isAnagram.h
 /Users/trivm2/Yamoshius/Algorithm-Cpp/problems/leetcode/242_isAnagram.h
 problems/leetcode/54_spiralOrder.h
 /Users/trivm2/Yamoshius/Algorithm-Cpp/problems/leetcode/54_spiralOrder.h
+problems/leetcode/88_mergeSortedArray.h
+/Users/trivm2/Yamoshius/Algorithm-Cpp/problems/leetcode/88_mergeSortedArray.h
+problems/leetcode/118_pascalTriangle.h
+/Users/trivm2/Yamoshius/Algorithm-Cpp/problems/leetcode/118_pascalTriangle.h
+problems/leetcode/283_moveZeroes.h
+/Users/trivm2/Yamoshius/Algorithm-Cpp/problems/leetcode/283_moveZeroes.h
+
+/Users/trivm2/Yamoshius/Algorithm-Cpp/problems/leetcode/118_pascalTriangle.h
+leetcode.h
+/Users/trivm2/Yamoshius/Algorithm-Cpp/problems/leetcode/leetcode.h
 
 /Users/trivm2/Yamoshius/Algorithm-Cpp/problems/leetcode/15_3Sum.h
 leetcode.h
@@ -30,11 +40,19 @@ leetcode.h
 leetcode.h
 /Users/trivm2/Yamoshius/Algorithm-Cpp/problems/leetcode/leetcode.h
 
+/Users/trivm2/Yamoshius/Algorithm-Cpp/problems/leetcode/283_moveZeroes.h
+leetcode.h
+/Users/trivm2/Yamoshius/Algorithm-Cpp/problems/leetcode/leetcode.h
+
 /Users/trivm2/Yamoshius/Algorithm-Cpp/problems/leetcode/3_lengthOfLongestSubstring.h
 leetcode.h
 /Users/trivm2/Yamoshius/Algorithm-Cpp/problems/leetcode/leetcode.h
 
 /Users/trivm2/Yamoshius/Algorithm-Cpp/problems/leetcode/54_spiralOrder.h
+leetcode.h
+/Users/trivm2/Yamoshius/Algorithm-Cpp/problems/leetcode/leetcode.h
+
+/Users/trivm2/Yamoshius/Algorithm-Cpp/problems/leetcode/88_mergeSortedArray.h
 leetcode.h
 /Users/trivm2/Yamoshius/Algorithm-Cpp/problems/leetcode/leetcode.h
 

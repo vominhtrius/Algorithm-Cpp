@@ -4,9 +4,11 @@
 #include "problems/leetcode/242_isAnagram.h"
 #include "problems/leetcode/54_spiralOrder.h"
 #include "problems/leetcode/88_mergeSortedArray.h"
+#include "problems/leetcode/118_pascalTriangle.h"
+#include "problems/leetcode/283_moveZeroes.h"
 
 Solution *getSolution() {
-    return new Problem88_mergeSortedArray();
+    return new Problem283_moveZeroes();
 }
 
 int main() {

@@ -3,9 +3,11 @@
 
 CMakeFiles/Algorithm_Cpp.dir/main.cpp.o: \
  ../main.cpp \
+ ../problems/leetcode/118_pascalTriangle.h \
  ../problems/leetcode/15_3Sum.h \
  ../problems/leetcode/167_twoSum_II.h \
  ../problems/leetcode/242_isAnagram.h \
+ ../problems/leetcode/283_moveZeroes.h \
  ../problems/leetcode/3_lengthOfLongestSubstring.h \
  ../problems/leetcode/54_spiralOrder.h \
  ../problems/leetcode/88_mergeSortedArray.h \

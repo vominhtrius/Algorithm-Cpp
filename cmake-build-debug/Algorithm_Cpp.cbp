@@ -85,6 +85,9 @@
 		<Unit filename="/Users/trivm2/Yamoshius/Algorithm-Cpp/main.cpp">
 			<Option target="Algorithm_Cpp"/>
 		</Unit>
+		<Unit filename="/Users/trivm2/Yamoshius/Algorithm-Cpp/problems/leetcode/118_pascalTriangle.h">
+			<Option target="Algorithm_Cpp"/>
+		</Unit>
 		<Unit filename="/Users/trivm2/Yamoshius/Algorithm-Cpp/problems/leetcode/15_3Sum.h">
 			<Option target="Algorithm_Cpp"/>
 		</Unit>
@@ -92,6 +95,9 @@
 			<Option target="Algorithm_Cpp"/>
 		</Unit>
 		<Unit filename="/Users/trivm2/Yamoshius/Algorithm-Cpp/problems/leetcode/242_isAnagram.h">
+			<Option target="Algorithm_Cpp"/>
+		</Unit>
+		<Unit filename="/Users/trivm2/Yamoshius/Algorithm-Cpp/problems/leetcode/283_moveZeroes.h">
 			<Option target="Algorithm_Cpp"/>
 		</Unit>
 		<Unit filename="/Users/trivm2/Yamoshius/Algorithm-Cpp/problems/leetcode/3_lengthOfLongestSubstring.h">

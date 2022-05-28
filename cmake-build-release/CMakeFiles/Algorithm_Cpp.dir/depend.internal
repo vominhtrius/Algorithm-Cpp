@@ -3,11 +3,14 @@
 
 CMakeFiles/Algorithm_Cpp.dir/main.cpp.o
  /Users/trivm2/Yamoshius/Algorithm-Cpp/main.cpp
+ /Users/trivm2/Yamoshius/Algorithm-Cpp/problems/leetcode/118_pascalTriangle.h
  /Users/trivm2/Yamoshius/Algorithm-Cpp/problems/leetcode/15_3Sum.h
  /Users/trivm2/Yamoshius/Algorithm-Cpp/problems/leetcode/167_twoSum_II.h
  /Users/trivm2/Yamoshius/Algorithm-Cpp/problems/leetcode/242_isAnagram.h
+ /Users/trivm2/Yamoshius/Algorithm-Cpp/problems/leetcode/283_moveZeroes.h
  /Users/trivm2/Yamoshius/Algorithm-Cpp/problems/leetcode/3_lengthOfLongestSubstring.h
  /Users/trivm2/Yamoshius/Algorithm-Cpp/problems/leetcode/54_spiralOrder.h
+ /Users/trivm2/Yamoshius/Algorithm-Cpp/problems/leetcode/88_mergeSortedArray.h
  /Users/trivm2/Yamoshius/Algorithm-Cpp/problems/leetcode/leetcode.h
 CMakeFiles/Algorithm_Cpp.dir/problems/leetcode/threeSum.cpp.o
  /Users/trivm2/Yamoshius/Algorithm-Cpp/problems/leetcode/leetcode.h
