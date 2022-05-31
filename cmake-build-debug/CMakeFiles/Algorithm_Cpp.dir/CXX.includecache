@@ -25,6 +25,10 @@ problems/leetcode/283_moveZeroes.h
 /Users/trivm2/Yamoshius/Algorithm-Cpp/problems/leetcode/283_moveZeroes.h
 problems/leetcode/443_stringCompression.h
 /Users/trivm2/Yamoshius/Algorithm-Cpp/problems/leetcode/443_stringCompression.h
+problems/leetcode/560_subarraySumEqualK.h
+/Users/trivm2/Yamoshius/Algorithm-Cpp/problems/leetcode/560_subarraySumEqualK.h
+problems/leetcode/56_mergeIntervals.h
+/Users/trivm2/Yamoshius/Algorithm-Cpp/problems/leetcode/56_mergeIntervals.h
 
 /Users/trivm2/Yamoshius/Algorithm-Cpp/problems/leetcode/118_pascalTriangle.h
 leetcode.h
@@ -55,6 +59,14 @@ leetcode.h
 /Users/trivm2/Yamoshius/Algorithm-Cpp/problems/leetcode/leetcode.h
 
 /Users/trivm2/Yamoshius/Algorithm-Cpp/problems/leetcode/54_spiralOrder.h
+leetcode.h
+/Users/trivm2/Yamoshius/Algorithm-Cpp/problems/leetcode/leetcode.h
+
+/Users/trivm2/Yamoshius/Algorithm-Cpp/problems/leetcode/560_subarraySumEqualK.h
+leetcode.h
+/Users/trivm2/Yamoshius/Algorithm-Cpp/problems/leetcode/leetcode.h
+
+/Users/trivm2/Yamoshius/Algorithm-Cpp/problems/leetcode/56_mergeIntervals.h
 leetcode.h
 /Users/trivm2/Yamoshius/Algorithm-Cpp/problems/leetcode/leetcode.h
 

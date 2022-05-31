@@ -82,6 +82,9 @@
 				</MakeCommands>
 			</Target>
 		</Build>
+		<Unit filename="/Users/trivm2/Yamoshius/Algorithm-Cpp/inputs/leetcode/56.txt.h">
+			<Option target="Algorithm_Cpp"/>
+		</Unit>
 		<Unit filename="/Users/trivm2/Yamoshius/Algorithm-Cpp/main.cpp">
 			<Option target="Algorithm_Cpp"/>
 		</Unit>
@@ -107,6 +110,12 @@
 			<Option target="Algorithm_Cpp"/>
 		</Unit>
 		<Unit filename="/Users/trivm2/Yamoshius/Algorithm-Cpp/problems/leetcode/54_spiralOrder.h">
+			<Option target="Algorithm_Cpp"/>
+		</Unit>
+		<Unit filename="/Users/trivm2/Yamoshius/Algorithm-Cpp/problems/leetcode/560_subarraySumEqualK.h">
+			<Option target="Algorithm_Cpp"/>
+		</Unit>
+		<Unit filename="/Users/trivm2/Yamoshius/Algorithm-Cpp/problems/leetcode/56_mergeIntervals.h">
 			<Option target="Algorithm_Cpp"/>
 		</Unit>
 		<Unit filename="/Users/trivm2/Yamoshius/Algorithm-Cpp/problems/leetcode/88_mergeSortedArray.h">
