@@ -6,14 +6,15 @@
 #include "problems/leetcode/88_mergeSortedArray.h"
 #include "problems/leetcode/118_pascalTriangle.h"
 #include "problems/leetcode/283_moveZeroes.h"
-#include "problems/leetcode/443_stringCompression.h";
-#include "problems/leetcode/560_subarraySumEqualK.h";
-#include "problems/leetcode/56_mergeIntervals.h";
+#include "problems/leetcode/443_stringCompression.h"
+#include "problems/leetcode/560_subarraySumEqualK.h"
+#include "problems/leetcode/56_mergeIntervals.h"
+#include "problems/leetcode/33_searchInRotatedSortedArray.h"
 
-//#include "problems/leetcode/";
+//#include "problems/leetcode/"
 
 Solution *getSolution() {
-    return new Problem56_mergeIntervals();
+    return new Problem33_searchInRotatedSortedArray();
 }
 
 int main() {

@@ -29,6 +29,8 @@ problems/leetcode/560_subarraySumEqualK.h
 /Users/trivm2/Yamoshius/Algorithm-Cpp/problems/leetcode/560_subarraySumEqualK.h
 problems/leetcode/56_mergeIntervals.h
 /Users/trivm2/Yamoshius/Algorithm-Cpp/problems/leetcode/56_mergeIntervals.h
+problems/leetcode/33_searchInRotatedSortedArray.h
+/Users/trivm2/Yamoshius/Algorithm-Cpp/problems/leetcode/33_searchInRotatedSortedArray.h
 
 /Users/trivm2/Yamoshius/Algorithm-Cpp/problems/leetcode/118_pascalTriangle.h
 leetcode.h
@@ -47,6 +49,10 @@ leetcode.h
 /Users/trivm2/Yamoshius/Algorithm-Cpp/problems/leetcode/leetcode.h
 
 /Users/trivm2/Yamoshius/Algorithm-Cpp/problems/leetcode/283_moveZeroes.h
+leetcode.h
+/Users/trivm2/Yamoshius/Algorithm-Cpp/problems/leetcode/leetcode.h
+
+/Users/trivm2/Yamoshius/Algorithm-Cpp/problems/leetcode/33_searchInRotatedSortedArray.h
 leetcode.h
 /Users/trivm2/Yamoshius/Algorithm-Cpp/problems/leetcode/leetcode.h
 
