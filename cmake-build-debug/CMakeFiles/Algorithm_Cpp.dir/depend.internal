@@ -4,18 +4,25 @@
 CMakeFiles/Algorithm_Cpp.dir/main.cpp.o
  /Users/trivm2/Yamoshius/Algorithm-Cpp/main.cpp
  /Users/trivm2/Yamoshius/Algorithm-Cpp/problems/leetcode/118_pascalTriangle.h
+ /Users/trivm2/Yamoshius/Algorithm-Cpp/problems/leetcode/119_getRowPascalTriangle.h
  /Users/trivm2/Yamoshius/Algorithm-Cpp/problems/leetcode/15_3Sum.h
+ /Users/trivm2/Yamoshius/Algorithm-Cpp/problems/leetcode/1642_furthestBuilding.h
  /Users/trivm2/Yamoshius/Algorithm-Cpp/problems/leetcode/167_twoSum_II.h
+ /Users/trivm2/Yamoshius/Algorithm-Cpp/problems/leetcode/239_maxSlidingWindow.h
  /Users/trivm2/Yamoshius/Algorithm-Cpp/problems/leetcode/242_isAnagram.h
+ /Users/trivm2/Yamoshius/Algorithm-Cpp/problems/leetcode/253_minMeetingRooms.h
  /Users/trivm2/Yamoshius/Algorithm-Cpp/problems/leetcode/283_moveZeroes.h
+ /Users/trivm2/Yamoshius/Algorithm-Cpp/problems/leetcode/286_wallsAndGates.h
  /Users/trivm2/Yamoshius/Algorithm-Cpp/problems/leetcode/33_searchInRotatedSortedArray.h
  /Users/trivm2/Yamoshius/Algorithm-Cpp/problems/leetcode/3_lengthOfLongestSubstring.h
  /Users/trivm2/Yamoshius/Algorithm-Cpp/problems/leetcode/443_stringCompression.h
+ /Users/trivm2/Yamoshius/Algorithm-Cpp/problems/leetcode/4_findMedianSortedArrays.h
  /Users/trivm2/Yamoshius/Algorithm-Cpp/problems/leetcode/54_spiralOrder.h
  /Users/trivm2/Yamoshius/Algorithm-Cpp/problems/leetcode/560_subarraySumEqualK.h
  /Users/trivm2/Yamoshius/Algorithm-Cpp/problems/leetcode/56_mergeIntervals.h
  /Users/trivm2/Yamoshius/Algorithm-Cpp/problems/leetcode/88_mergeSortedArray.h
  /Users/trivm2/Yamoshius/Algorithm-Cpp/problems/leetcode/leetcode.h
+ /Users/trivm2/Yamoshius/Algorithm-Cpp/problems/leetcode/problem_chotot.h
 CMakeFiles/Algorithm_Cpp.dir/problems/leetcode/threeSum.cpp.o
  /Users/trivm2/Yamoshius/Algorithm-Cpp/problems/leetcode/leetcode.h
  /Users/trivm2/Yamoshius/Algorithm-Cpp/problems/leetcode/threeSum.cpp

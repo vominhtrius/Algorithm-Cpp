@@ -88,16 +88,31 @@
 		<Unit filename="/Users/trivm2/Yamoshius/Algorithm-Cpp/problems/leetcode/118_pascalTriangle.h">
 			<Option target="Algorithm_Cpp"/>
 		</Unit>
+		<Unit filename="/Users/trivm2/Yamoshius/Algorithm-Cpp/problems/leetcode/119_getRowPascalTriangle.h">
+			<Option target="Algorithm_Cpp"/>
+		</Unit>
 		<Unit filename="/Users/trivm2/Yamoshius/Algorithm-Cpp/problems/leetcode/15_3Sum.h">
+			<Option target="Algorithm_Cpp"/>
+		</Unit>
+		<Unit filename="/Users/trivm2/Yamoshius/Algorithm-Cpp/problems/leetcode/1642_furthestBuilding.h">
 			<Option target="Algorithm_Cpp"/>
 		</Unit>
 		<Unit filename="/Users/trivm2/Yamoshius/Algorithm-Cpp/problems/leetcode/167_twoSum_II.h">
 			<Option target="Algorithm_Cpp"/>
 		</Unit>
+		<Unit filename="/Users/trivm2/Yamoshius/Algorithm-Cpp/problems/leetcode/239_maxSlidingWindow.h">
+			<Option target="Algorithm_Cpp"/>
+		</Unit>
 		<Unit filename="/Users/trivm2/Yamoshius/Algorithm-Cpp/problems/leetcode/242_isAnagram.h">
 			<Option target="Algorithm_Cpp"/>
 		</Unit>
+		<Unit filename="/Users/trivm2/Yamoshius/Algorithm-Cpp/problems/leetcode/253_minMeetingRooms.h">
+			<Option target="Algorithm_Cpp"/>
+		</Unit>
 		<Unit filename="/Users/trivm2/Yamoshius/Algorithm-Cpp/problems/leetcode/283_moveZeroes.h">
+			<Option target="Algorithm_Cpp"/>
+		</Unit>
+		<Unit filename="/Users/trivm2/Yamoshius/Algorithm-Cpp/problems/leetcode/286_wallsAndGates.h">
 			<Option target="Algorithm_Cpp"/>
 		</Unit>
 		<Unit filename="/Users/trivm2/Yamoshius/Algorithm-Cpp/problems/leetcode/33_searchInRotatedSortedArray.h">
@@ -107,6 +122,9 @@
 			<Option target="Algorithm_Cpp"/>
 		</Unit>
 		<Unit filename="/Users/trivm2/Yamoshius/Algorithm-Cpp/problems/leetcode/443_stringCompression.h">
+			<Option target="Algorithm_Cpp"/>
+		</Unit>
+		<Unit filename="/Users/trivm2/Yamoshius/Algorithm-Cpp/problems/leetcode/4_findMedianSortedArrays.h">
 			<Option target="Algorithm_Cpp"/>
 		</Unit>
 		<Unit filename="/Users/trivm2/Yamoshius/Algorithm-Cpp/problems/leetcode/54_spiralOrder.h">
@@ -122,6 +140,9 @@
 			<Option target="Algorithm_Cpp"/>
 		</Unit>
 		<Unit filename="/Users/trivm2/Yamoshius/Algorithm-Cpp/problems/leetcode/leetcode.h">
+			<Option target="Algorithm_Cpp"/>
+		</Unit>
+		<Unit filename="/Users/trivm2/Yamoshius/Algorithm-Cpp/problems/leetcode/problem_chotot.h">
 			<Option target="Algorithm_Cpp"/>
 		</Unit>
 		<Unit filename="/Users/trivm2/Yamoshius/Algorithm-Cpp/problems/leetcode/template.h">

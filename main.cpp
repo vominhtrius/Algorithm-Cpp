@@ -10,11 +10,18 @@
 #include "problems/leetcode/560_subarraySumEqualK.h"
 #include "problems/leetcode/56_mergeIntervals.h"
 #include "problems/leetcode/33_searchInRotatedSortedArray.h"
+#include "problems/leetcode/4_findMedianSortedArrays.h"
+#include "problems/leetcode/problem_chotot.h"
+#include "problems/leetcode/239_maxSlidingWindow.h"
+#include "problems/leetcode/253_minMeetingRooms.h"
+#include "problems/leetcode/119_getRowPascalTriangle.h"
+#include "problems/leetcode/1642_furthestBuilding.h"
+#include "problems/leetcode/286_wallsAndGates.h"
 
 //#include "problems/leetcode/"
 
 Solution *getSolution() {
-    return new Problem33_searchInRotatedSortedArray();
+    return new Problem286_wallsAndGates();
 }
 
 int main() {

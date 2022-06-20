@@ -31,8 +31,26 @@ problems/leetcode/56_mergeIntervals.h
 /Users/trivm2/Yamoshius/Algorithm-Cpp/problems/leetcode/56_mergeIntervals.h
 problems/leetcode/33_searchInRotatedSortedArray.h
 /Users/trivm2/Yamoshius/Algorithm-Cpp/problems/leetcode/33_searchInRotatedSortedArray.h
+problems/leetcode/4_findMedianSortedArrays.h
+/Users/trivm2/Yamoshius/Algorithm-Cpp/problems/leetcode/4_findMedianSortedArrays.h
+problems/leetcode/problem_chotot.h
+/Users/trivm2/Yamoshius/Algorithm-Cpp/problems/leetcode/problem_chotot.h
+problems/leetcode/239_maxSlidingWindow.h
+/Users/trivm2/Yamoshius/Algorithm-Cpp/problems/leetcode/239_maxSlidingWindow.h
+problems/leetcode/253_minMeetingRooms.h
+/Users/trivm2/Yamoshius/Algorithm-Cpp/problems/leetcode/253_minMeetingRooms.h
+problems/leetcode/119_getRowPascalTriangle.h
+/Users/trivm2/Yamoshius/Algorithm-Cpp/problems/leetcode/119_getRowPascalTriangle.h
+problems/leetcode/1642_furthestBuilding.h
+/Users/trivm2/Yamoshius/Algorithm-Cpp/problems/leetcode/1642_furthestBuilding.h
+problems/leetcode/286_wallsAndGates.h
+/Users/trivm2/Yamoshius/Algorithm-Cpp/problems/leetcode/286_wallsAndGates.h
 
 /Users/trivm2/Yamoshius/Algorithm-Cpp/problems/leetcode/118_pascalTriangle.h
+leetcode.h
+/Users/trivm2/Yamoshius/Algorithm-Cpp/problems/leetcode/leetcode.h
+
+/Users/trivm2/Yamoshius/Algorithm-Cpp/problems/leetcode/119_getRowPascalTriangle.h
 leetcode.h
 /Users/trivm2/Yamoshius/Algorithm-Cpp/problems/leetcode/leetcode.h
 
@@ -40,7 +58,15 @@ leetcode.h
 leetcode.h
 /Users/trivm2/Yamoshius/Algorithm-Cpp/problems/leetcode/leetcode.h
 
+/Users/trivm2/Yamoshius/Algorithm-Cpp/problems/leetcode/1642_furthestBuilding.h
+leetcode.h
+/Users/trivm2/Yamoshius/Algorithm-Cpp/problems/leetcode/leetcode.h
+
 /Users/trivm2/Yamoshius/Algorithm-Cpp/problems/leetcode/167_twoSum_II.h
+leetcode.h
+/Users/trivm2/Yamoshius/Algorithm-Cpp/problems/leetcode/leetcode.h
+
+/Users/trivm2/Yamoshius/Algorithm-Cpp/problems/leetcode/239_maxSlidingWindow.h
 leetcode.h
 /Users/trivm2/Yamoshius/Algorithm-Cpp/problems/leetcode/leetcode.h
 
@@ -48,9 +74,19 @@ leetcode.h
 leetcode.h
 /Users/trivm2/Yamoshius/Algorithm-Cpp/problems/leetcode/leetcode.h
 
+/Users/trivm2/Yamoshius/Algorithm-Cpp/problems/leetcode/253_minMeetingRooms.h
+leetcode.h
+/Users/trivm2/Yamoshius/Algorithm-Cpp/problems/leetcode/leetcode.h
+
 /Users/trivm2/Yamoshius/Algorithm-Cpp/problems/leetcode/283_moveZeroes.h
 leetcode.h
 /Users/trivm2/Yamoshius/Algorithm-Cpp/problems/leetcode/leetcode.h
+
+/Users/trivm2/Yamoshius/Algorithm-Cpp/problems/leetcode/286_wallsAndGates.h
+leetcode.h
+/Users/trivm2/Yamoshius/Algorithm-Cpp/problems/leetcode/leetcode.h
+stack
+-
 
 /Users/trivm2/Yamoshius/Algorithm-Cpp/problems/leetcode/33_searchInRotatedSortedArray.h
 leetcode.h
@@ -61,6 +97,10 @@ leetcode.h
 /Users/trivm2/Yamoshius/Algorithm-Cpp/problems/leetcode/leetcode.h
 
 /Users/trivm2/Yamoshius/Algorithm-Cpp/problems/leetcode/443_stringCompression.h
+leetcode.h
+/Users/trivm2/Yamoshius/Algorithm-Cpp/problems/leetcode/leetcode.h
+
+/Users/trivm2/Yamoshius/Algorithm-Cpp/problems/leetcode/4_findMedianSortedArrays.h
 leetcode.h
 /Users/trivm2/Yamoshius/Algorithm-Cpp/problems/leetcode/leetcode.h
 
@@ -99,6 +139,14 @@ unordered_map
 -
 algorithm
 -
+queue
+-
+deque
+-
 sstream
 -
+
+/Users/trivm2/Yamoshius/Algorithm-Cpp/problems/leetcode/problem_chotot.h
+leetcode.h
+/Users/trivm2/Yamoshius/Algorithm-Cpp/problems/leetcode/leetcode.h
 
